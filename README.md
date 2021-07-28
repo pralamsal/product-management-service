@@ -1,5 +1,7 @@
 # product-management-service
 
+This is a microservice implemented using Spring Boot. It uses Spring Data JPA to store and retrieve data in a relational database (H2 Database).
+
 To run the application, run the following command in a terminal window in the project directory
 
 ####  `./mvnw spring-boot:run`
